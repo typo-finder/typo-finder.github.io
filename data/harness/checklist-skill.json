@@ -1,0 +1,146 @@
+{
+  "name": "checklist-skill",
+  "author": "sec3-sc-notes",
+  "repo": "https://github.com/sec3-sc-notes/checklist-skill",
+  "default_branch": "main",
+  "version": "1",
+  "tags": [
+    "checklist",
+    "increase TP"
+  ],
+  "update_time": "2026-05-18",
+  "description": "Checklist Skill | --- name: checklist-skill description: Security audit checklist for Solana/Anchor programs. Ident... | Capabilities: Overview, Usage, Check Item Index",
+  "files_count": 31,
+  "total_size": 78084,
+  "files": [
+    {
+      "path": "README.md",
+      "size": 9825
+    },
+    {
+      "path": "SKILL.md",
+      "size": 5883
+    },
+    {
+      "path": "assets/logo.png",
+      "size": 16338
+    },
+    {
+      "path": "references/account-lifecycle/close-account-safety.md",
+      "size": 2621
+    },
+    {
+      "path": "references/account-validation/account-type-checks.md",
+      "size": 2425
+    },
+    {
+      "path": "references/account-validation/accountinfo-checks.md",
+      "size": 2271
+    },
+    {
+      "path": "references/account-validation/ata-mint-owner-consistency.md",
+      "size": 933
+    },
+    {
+      "path": "references/account-validation/cpiaccount-owner-check.md",
+      "size": 518
+    },
+    {
+      "path": "references/account-validation/remaining-accounts-validation.md",
+      "size": 774
+    },
+    {
+      "path": "references/arithmetic/division-precision-loss.md",
+      "size": 2838
+    },
+    {
+      "path": "references/arithmetic/division-zero-result.md",
+      "size": 2781
+    },
+    {
+      "path": "references/arithmetic/overflow-and-type-casting.md",
+      "size": 2873
+    },
+    {
+      "path": "references/cpi/account-infos-completeness.md",
+      "size": 1155
+    },
+    {
+      "path": "references/cpi/confused-deputy.md",
+      "size": 1696
+    },
+    {
+      "path": "references/cpi/forbid-cpi-invocation.md",
+      "size": 1466
+    },
+    {
+      "path": "references/cpi/manual-lamport-changes.md",
+      "size": 1587
+    },
+    {
+      "path": "references/cpi/reload-after-mutation.md",
+      "size": 1524
+    },
+    {
+      "path": "references/crypto/secp256k1-malleable-signatures.md",
+      "size": 1017
+    },
+    {
+      "path": "references/misc/instruction-constraint-consistency.md",
+      "size": 1264
+    },
+    {
+      "path": "references/misc/ok-false-result-check.md",
+      "size": 936
+    },
+    {
+      "path": "references/misc/rust-copy-unwrap.md",
+      "size": 1064
+    },
+    {
+      "path": "references/misc/shank-account-list-consistency.md",
+      "size": 857
+    },
+    {
+      "path": "references/misc/special-default-values.md",
+      "size": 1097
+    },
+    {
+      "path": "references/pda/constant-first-seed.md",
+      "size": 1647
+    },
+    {
+      "path": "references/pda/seed-encoding.md",
+      "size": 1938
+    },
+    {
+      "path": "references/pda/seed-length.md",
+      "size": 1606
+    },
+    {
+      "path": "references/pda/seeds-consistency-with-signers.md",
+      "size": 2649
+    },
+    {
+      "path": "references/pda/space-calculation.md",
+      "size": 2121
+    },
+    {
+      "path": "references/token-extensions/ata-authority-transfer.md",
+      "size": 797
+    },
+    {
+      "path": "references/token-extensions/permanent-delegate-transfer.md",
+      "size": 1346
+    },
+    {
+      "path": "references/vec/vec-safety.md",
+      "size": 2237
+    }
+  ],
+  "harness_type": "skill",
+  "hasSkillMarkdown": true,
+  "hasReadmeMarkdown": true,
+  "firstOtherMarkdown": null,
+  "contentSource": "skill"
+}

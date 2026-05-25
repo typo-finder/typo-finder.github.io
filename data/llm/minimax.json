@@ -1,0 +1,21 @@
+{
+  "name": "M2.7",
+  "provider": "Minimax",
+  "level": 1,
+  "score": {
+    "whirlpool": {
+      "effort": "high",
+      "TP|FP": "1.8|3.1",
+      "agent": "OpenCode(v1.14.33)",
+      "update": "20260417"
+    }
+  },
+  "TP": 1.8,
+  "FP": 3.1,
+  "tags": [
+    "Pro Plan 每个月7块钱"
+  ],
+  "table-markdown-base64": "fCBzY29yZShUUHxGUCkgfCBkZWZhdWx0IHwKfCAtLS0gfCAtLS0gfAp8IG9yY2Etc28ud2hpcmxwb29sLWF1dG9tYXRpb24tbGxtIEhhcnZlc3RTd2FwQW5kUmVpbnZlc3RQcmUgfCAxLjh8My4xIHw=",
+  "chart-path": "",
+  "icon-path": "images/minimax-color.png"
+}

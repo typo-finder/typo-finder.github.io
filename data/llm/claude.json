@@ -1,0 +1,21 @@
+{
+  "name": "Opus 4.7",
+  "provider": "Anthropic Claude",
+  "level": 5,
+  "score": {
+    "whirlpool": {
+      "effort": "max",
+      "TP|FP": "3.4|7.4",
+      "agent": "Claude Code(v2.1.126)",
+      "update": "20260417"
+    }
+  },
+  "TP": 3.4,
+  "FP": 7.4,
+  "tags": [
+    "only Claude Code",
+    "$5/$25"
+  ],
+  "chart-path": "",
+  "icon-path": "images/claude-color.png"
+}

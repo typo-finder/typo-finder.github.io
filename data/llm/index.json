@@ -1,0 +1,14 @@
+{
+  "files": [
+    "deepseek.json",
+    "gemini.json",
+    "glm.json",
+    "chatgpt.json",
+    "minimax.json",
+    "claude.json",
+    "qwen.json",
+    "xiaomimimo.json",
+    "kimi.json",
+    "doubao.json"
+  ]
+}

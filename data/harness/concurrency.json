@@ -1,0 +1,30 @@
+{
+  "name": "concurrency",
+  "author": "sec3-sc-notes",
+  "repo": "https://github.com/sec3-sc-notes/concurrency",
+  "default_branch": "master",
+  "version": "1",
+  "tags": [
+    "increase TP",
+    "opencode"
+  ],
+  "update_time": "2026-05-18",
+  "description": "Concurrency | --- description: Launch multiple independent auditors and aggregate the output content mode: primary",
+  "files_count": 2,
+  "total_size": 1535,
+  "files": [
+    {
+      "path": "Concurrency.md",
+      "size": 1105
+    },
+    {
+      "path": "auditor.md",
+      "size": 430
+    }
+  ],
+  "harness_type": "command",
+  "hasSkillMarkdown": false,
+  "hasReadmeMarkdown": false,
+  "firstOtherMarkdown": "Concurrency.md",
+  "contentSource": "command"
+}

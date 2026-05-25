@@ -1,0 +1,21 @@
+{
+  "name": "GLM 4.7",
+  "provider": "ChatGLM",
+  "level": 1,
+  "score": {
+    "whirlpool": {
+      "effort": "high",
+      "TP|FP": "0.2|13.9",
+      "agent": "OpenCode(v1.14.33)",
+      "update": "20260417"
+    }
+  },
+  "TP": 0.2,
+  "FP": 13.9,
+  "tags": [
+    "20251222 release"
+  ],
+  "table-markdown-base64": "",
+  "chart-path": "",
+  "icon-path": "images/chatglm-color.png"
+}

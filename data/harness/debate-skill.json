@@ -1,0 +1,38 @@
+{
+  "name": "debate-skill",
+  "author": "typo-finder",
+  "repo": "https://github.com/typo-finder/debate-skill",
+  "default_branch": "main",
+  "version": "1",
+  "tags": [
+    "decrease FP",
+    "opencode"
+  ],
+  "update_time": "2026-05-18",
+  "description": "Debate Skill | Use the Judge agent to discuss a discovered finding.",
+  "files_count": 4,
+  "total_size": 7305,
+  "files": [
+    {
+      "path": "README.md",
+      "size": 53
+    },
+    {
+      "path": "agents/Defense.md",
+      "size": 3077
+    },
+    {
+      "path": "agents/Judge.md",
+      "size": 1448
+    },
+    {
+      "path": "agents/Prosecution.md",
+      "size": 2727
+    }
+  ],
+  "harness_type": "agent",
+  "hasSkillMarkdown": false,
+  "hasReadmeMarkdown": true,
+  "firstOtherMarkdown": null,
+  "contentSource": "readme"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Qwen3.5-9B",
+  "provider": "Qwen",
+  "level": 0,
+  "score": {
+    "whirlpool": {
+      "effort": "high",
+      "TP|FP": "0|0",
+      "agent": "OpenCode(v1.14.33)",
+      "update": "20260503"
+    }
+  },
+  "TP": 0,
+  "FP": 0,
+  "tags": [
+    "Open Source",
+    "审计无法顺利完成,没有测试结果"
+  ],
+  "table-markdown-base64": "",
+  "chart-path": "",
+  "icon-path": "images/qwen-color.png"
+}

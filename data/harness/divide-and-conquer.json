@@ -1,0 +1,26 @@
+{
+  "name": "divide-and-conquer",
+  "author": "typo-finder",
+  "repo": "https://github.com/typo-finder/divide-and-conquer",
+  "default_branch": "main",
+  "version": "1",
+  "tags": [
+    "context build",
+    "opencode"
+  ],
+  "update_time": "2026-05-18",
+  "description": "Divide And Conquer | --- description: Launch multiple independent auditors and aggregate the output content mode: primary",
+  "files_count": 1,
+  "total_size": 841,
+  "files": [
+    {
+      "path": "DivideAndConquer.md",
+      "size": 841
+    }
+  ],
+  "harness_type": "command",
+  "hasSkillMarkdown": false,
+  "hasReadmeMarkdown": false,
+  "firstOtherMarkdown": "DivideAndConquer.md",
+  "contentSource": "command"
+}

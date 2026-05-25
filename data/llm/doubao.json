@@ -1,0 +1,21 @@
+{
+  "name": "Doubao Seed 2.0 Pro",
+  "provider": "VolcEngine",
+  "level": 1,
+  "score": {
+    "whirlpool": {
+      "effort": "high",
+      "TP|FP": "0.7|7.8",
+      "agent": "OpenCode(v1.14.33)",
+      "update": "20260417"
+    }
+  },
+  "TP": 0.7,
+  "FP": 7.8,
+  "tags": [
+    "$0.45/$2.3"
+  ],
+  "table-markdown-base64": "",
+  "chart-path": "",
+  "icon-path": "images/doubao-color.png"
+}

@@ -1,0 +1,170 @@
+{
+  "name": "eip-auditor",
+  "author": "typo-finder",
+  "repo": "https://github.com/typo-finder/eip-auditor",
+  "default_branch": "main",
+  "version": "1",
+  "tags": [
+    "checklist",
+    "increase TP"
+  ],
+  "update_time": "2026-05-18",
+  "description": "Eip Auditor | --- name: eip-auditor description: Security audit check items for blockchain EIPs. First determin... | Capabilities: 概述, 使用方式, EIP 检查索引",
+  "files_count": 37,
+  "total_size": 42724,
+  "files": [
+    {
+      "path": "README.md",
+      "size": 54
+    },
+    {
+      "path": "SKILL.md",
+      "size": 5890
+    },
+    {
+      "path": "references/eip-0150/1-64-gas-overcount.md",
+      "size": 943
+    },
+    {
+      "path": "references/eip-0150/forced-catch-via-gas-tuning.md",
+      "size": 960
+    },
+    {
+      "path": "references/eip-0150/incomplete-mingas-check.md",
+      "size": 1130
+    },
+    {
+      "path": "references/eip-0150/returndata-gas-bomb.md",
+      "size": 1069
+    },
+    {
+      "path": "references/eip-0150/stale-gas-constants.md",
+      "size": 972
+    },
+    {
+      "path": "references/eip-0155/domain-separator-chain-id-mismatch.md",
+      "size": 1224
+    },
+    {
+      "path": "references/eip-0155/missing-chain-id-validation.md",
+      "size": 1093
+    },
+    {
+      "path": "references/eip-0155/selective-chain-id-enforcement.md",
+      "size": 994
+    },
+    {
+      "path": "references/eip-0155/unscoped-legacy-v-format.md",
+      "size": 1019
+    },
+    {
+      "path": "references/eip-0214/mislabeled-view-function.md",
+      "size": 1088
+    },
+    {
+      "path": "references/eip-0214/read-only-reentrancy.md",
+      "size": 1075
+    },
+    {
+      "path": "references/eip-0214/staticcall-to-mutating-function.md",
+      "size": 1044
+    },
+    {
+      "path": "references/eip-0214/unchecked-staticcall-return-value.md",
+      "size": 961
+    },
+    {
+      "path": "references/eip-1014/create2-address-collision.md",
+      "size": 1091
+    },
+    {
+      "path": "references/eip-1014/cross-chain-create2-mismatch.md",
+      "size": 1020
+    },
+    {
+      "path": "references/eip-1014/metamorphic-redeployment.md",
+      "size": 1197
+    },
+    {
+      "path": "references/eip-1014/predictable-create2-salt.md",
+      "size": 966
+    },
+    {
+      "path": "references/eip-1014/unchecked-create2-return-value.md",
+      "size": 994
+    },
+    {
+      "path": "references/eip-1559/congestion-pricing-bypass.md",
+      "size": 1028
+    },
+    {
+      "path": "references/eip-1559/incorrect-basefee-calculation.md",
+      "size": 1016
+    },
+    {
+      "path": "references/eip-1559/l1-l2-gas-metering-mismatch.md",
+      "size": 1004
+    },
+    {
+      "path": "references/eip-1559/non-standard-transaction-type-encoding.md",
+      "size": 1085
+    },
+    {
+      "path": "references/eip-1559/tx-gasprice-as-a-price-oracle.md",
+      "size": 1059
+    },
+    {
+      "path": "references/eip-2929/gas-limit-cold-access-mismatch.md",
+      "size": 960
+    },
+    {
+      "path": "references/eip-2929/incorrect-cold-warm-gas-accounting.md",
+      "size": 891
+    },
+    {
+      "path": "references/eip-6780/broken-lifecycle-assumptions.md",
+      "size": 1089
+    },
+    {
+      "path": "references/eip-6780/forced-eth-transfer-via-selfdestruct.md",
+      "size": 1137
+    },
+    {
+      "path": "references/eip-6780/selfdestruct-as-deprecation-debt.md",
+      "size": 1060
+    },
+    {
+      "path": "references/eip-6780/selfdestruct-via-delegatecall.md",
+      "size": 1125
+    },
+    {
+      "path": "references/eip-7702/broken-eoa-identity-assumptions.md",
+      "size": 1066
+    },
+    {
+      "path": "references/eip-7702/native-transfer-reentrancy.md",
+      "size": 1037
+    },
+    {
+      "path": "references/eip-7702/signature-verification-incompatibility.md",
+      "size": 1294
+    },
+    {
+      "path": "references/eip-7825/monolithic-execution-over-per-tx-cap.md",
+      "size": 1016
+    },
+    {
+      "path": "references/eip-7825/transaction-vs-block-gas-limit-confusion.md",
+      "size": 1096
+    },
+    {
+      "path": "references/eip-7825/unbounded-cross-chain-gas-limit.md",
+      "size": 977
+    }
+  ],
+  "harness_type": "skill",
+  "hasSkillMarkdown": true,
+  "hasReadmeMarkdown": true,
+  "firstOtherMarkdown": null,
+  "contentSource": "skill"
+}

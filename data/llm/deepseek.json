@@ -1,0 +1,22 @@
+{
+  "name": "DeepSeek V4 Pro",
+  "provider": "DeepSeek",
+  "level": 3,
+  "score": {
+    "whirlpool": {
+      "effort": "high",
+      "TP|FP": "3.0|10.1",
+      "agent": "OpenCode(v1.14.33)",
+      "update": "20260417"
+    }
+  },
+  "TP": 3.0,
+  "FP": 10.1,
+  "tags": [
+    "open source",
+    "2026-05-01 发布"
+  ],
+  "table-markdown-base64": "",
+  "chart-path": "",
+  "icon-path": "images/deepseek-color.png"
+}

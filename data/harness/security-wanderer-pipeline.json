@@ -1,0 +1,57 @@
+{
+  "name": "security-wanderer-pipeline",
+  "author": "SecurityWanderer",
+  "repo": "https://github.com/sec3-sc-notes/security-wanderer-pipeline",
+  "default_branch": "main",
+  "version": "1",
+  "tags": [
+    "context build"
+  ],
+  "update_time": "2026-05-25",
+  "description": "Audit Pipeline | Security audit workflow for code review, specializing in blockchain programs (Solana/Anchor, Ethereum). | Capabilities: Audit Pipeline, Workflow, [AccountName]",
+  "files_count": 9,
+  "total_size": 44541,
+  "files": [
+    {
+      "path": "README.md",
+      "size": 542
+    },
+    {
+      "path": "context-building/SKILL.md",
+      "size": 8367
+    },
+    {
+      "path": "deep-analysis/SKILL.md",
+      "size": 7141
+    },
+    {
+      "path": "issue-reviewing/SKILL.md",
+      "size": 3233
+    },
+    {
+      "path": "poc-building/SKILL.md",
+      "size": 3435
+    },
+    {
+      "path": "poc-building/references/anchor-provider.md",
+      "size": 6411
+    },
+    {
+      "path": "poc-building/references/litesvm-typescript.md",
+      "size": 5256
+    },
+    {
+      "path": "poc-building/references/sdk-source-map.md",
+      "size": 3037
+    },
+    {
+      "path": "wide-viewing/SKILL.md",
+      "size": 7119
+    }
+  ],
+  "harness_type": "skill",
+  "hasSkillMarkdown": true,
+  "hasReadmeMarkdown": true,
+  "firstOtherMarkdown": null,
+  "contentSource": "skill"
+}

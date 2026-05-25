@@ -1,0 +1,21 @@
+{
+  "name": "Mimo V2.5 Pro",
+  "provider": "xiaomi mimo",
+  "level": 1,
+  "TP": 1.7,
+  "FP": 10.2,
+  "score": {
+    "whirlpool": {
+      "effort": "high",
+      "TP|FP": "1.7|10.2",
+      "agent": "OpenCode(v1.14.33)",
+      "update": "20260503"
+    }
+  },
+  "tags": [
+    "free 200M tokens"
+  ],
+  "table-markdown-base64": "fCBzY29yZShUUHxGUCkgfCBkZWZhdWx0IHwKfCAtLS0gfCAtLS0gfAp8IG9yY2Etc28ud2hpcmxwb29sLWF1dG9tYXRpb24tbGxtIEhhcnZlc3RTd2FwQW5kUmVpbnZlc3RQcmUgfCAxLjh8My4xIHw=",
+  "chart-path": "",
+  "icon-path": "images/xiaomimimo.png"
+}

@@ -1,0 +1,10 @@
+{
+  "files": [
+    "checklist-skill.json",
+    "debate-skill.json",
+    "eip-auditor.json",
+    "divide-and-conquer.json",
+    "concurrency.json",
+    "security-wanderer-pipeline.json"
+  ]
+}

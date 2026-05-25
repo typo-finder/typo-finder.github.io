@@ -1,0 +1,23 @@
+{
+  "name": "Opus4.7 Complex Context",
+  "llm": "Claude Opus 4.7",
+  "version": "V2-beta",
+  "update_time": "2026-05-01",
+  "harnesses": [
+    {
+      "name": "Checklist",
+      "version": "V5.1"
+    },
+    {
+      "name": "Review",
+      "version": "V2"
+    },
+    {
+      "name": "Context Builder",
+      "version": "V2"
+    }
+  ],
+  "score": 9.5,
+  "description": "The best pipeline for Solana audit",
+  "link": "https://github.com/solana-labs/solana-program-library/tree/master/checklist"
+}

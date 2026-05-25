@@ -1,0 +1,21 @@
+{
+  "name": "gemini-3.1-pro-preview",
+  "provider": "google",
+  "level": 4,
+  "score": {
+    "whirlpool": {
+      "effort": "high",
+      "TP|FP": "3.0|1.5",
+      "agent": "OpenCode(v1.14.33)",
+      "update": "20260417"
+    }
+  },
+  "TP": 3.0,
+  "FP": 1.5,
+  "tags": [
+    "$2/$12"
+  ],
+  "table-markdown-base64": "",
+  "chart-path": "",
+  "icon-path": "images/gemini-color.png"
+}
